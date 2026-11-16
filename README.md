@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Sarthak Satre! 👋
 
-<!--
-**sarthak-satre/sarthak-satre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm passionate about working with data, discovering meaningful insights, and helping businesses make better decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- Python
+- SQL (Oracle)
+- Excel
+- Power BI
+- NumPy
+- Pandas
+
+### 🌱 Currently Learning
+- Data Analysis
+- Data Visualization
+- Exploratory Data Analysis
+
+### 🎯 My Goals
+- Build real-world Data Analytics projects.
+- Improve my analytical and problem-solving skills.
+- Start my career as a Data Analyst.
+
+### 📂 My Projects
+Coming Soon! 🚀
+
+### 📫 Connect With Me
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/sarthak-satre-295b15441/)
